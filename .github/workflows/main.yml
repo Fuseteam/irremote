@@ -28,9 +28,7 @@ jobs:
       - name: Build clickable (arm64)
         uses: docker://clickable/ci-dev-16.04-arm64:latest
         with:
-          args: |
-           cd clickable
-           clickable build --verbose -a arm64 --app
+          args: bash clickable/clickable build --verbose -a arm64 --app
 
       - name: Upload the built clickable artifact (amd64)
         uses: actions/upload-artifact@v2
