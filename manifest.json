@@ -5,7 +5,7 @@
     "title": "irremote",
     "hooks": {
         "showcase": {
-            "apparmor": "apparmor.json",
+            "apparmor": "clikable/apparmor.json",
             "desktop":  "clickable/iiremote.desktop"
         }
     },
