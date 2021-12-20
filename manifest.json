@@ -6,7 +6,7 @@
     "hooks": {
         "showcase": {
             "apparmor": "apparmor.json",
-            "desktop":  "iiremote.desktop"
+            "desktop":  "clickable/iiremote.desktop"
         }
     },
     "version": "0.1",
