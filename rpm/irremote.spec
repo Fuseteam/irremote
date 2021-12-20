@@ -26,7 +26,7 @@ BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
 BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  pkgconfig(android-headers)
-BuildRequires:  pkgconfig(libhardware)
+BuildRequires:  pkgconfig(libhardware2)
 BuildRequires:  pkgconfig(libvibrator)
 BuildRequires:  desktop-file-utils
 
