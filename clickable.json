@@ -1,7 +1,4 @@
 {
     "clickable_minimum_required": "6.20.0",
-    "builder": "qmake",
-    "build_args": [
-      "FLAVOR=uuitk"
-    ]
-  }
+    "builder": "qmake"
+}
