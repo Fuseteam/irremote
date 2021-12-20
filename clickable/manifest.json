@@ -1,0 +1,15 @@
+{
+    "name": "irremote.fuseteam",
+    "description": "IR Blaster",
+    "architecture": "@CLICK_ARCH@",
+    "title": "irremote",
+    "hooks": {
+        "showcase": {
+            "apparmor": "apparmor.json",
+            "desktop":  "iiremote.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Rahammetoela Toekiman <fusekai@outlook.com>",
+    "framework" : "ubuntu-sdk-16.04.5"
+}

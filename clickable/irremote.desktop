@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Ubuntu-Touch=true
+Icon=irremote
+Exec=irremote
+Name=IR Remote
+
